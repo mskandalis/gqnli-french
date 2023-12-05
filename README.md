@@ -1,6 +1,8 @@
 # French version of the English GQNLI dataset (GQNLI-FR)
 
-This repository contains a manually translated French version of the [GQNLI](https://github.com/ruixiangcui/GQNLI) challenge dataset, originally written in English. GQNLI is an evaluation corpus that is aimed for testing language model's generalized quantifier reasoning ability. This dataset can be used for the task of Natural Language Inference (NLI), also known as Recognizing Textual Entailment (RTE), which is a sentence-pair classification task.
+This repository contains a manually translated French version of the [GQNLI](https://github.com/ruixiangcui/GQNLI) challenge dataset, originally written in English. 
+
+GQNLI is an evaluation corpus that is aimed for testing language model's generalized quantifier reasoning ability. The dataset can be used for the task of Natural Language Inference (NLI), also known as Recognizing Textual Entailment (RTE), which is a sentence-pair classification task.
 
 It is also available directly on [huggingface.co](https://huggingface.co/datasets/maximoss/gqnli-fr).
 
