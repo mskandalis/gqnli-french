@@ -39,6 +39,10 @@ print(test)
 
 **ACL:**
 
+Maximos Skandalis, Richard Moot, Christian Retoré, and Simon Robillard. 2024. *New datasets for automatic detection of textual entailment and of contradictions between sentences in French*. 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), Turin, Italy. European Language Resources Association (ELRA) and International Committee on Computational Linguistics (ICCL).
+
+And
+
 Ruixiang Cui, Daniel Hershcovich, and Anders Søgaard. 2022. [Generalized Quantifiers as a Source of Error in Multilingual NLU Benchmarks](https://aclanthology.org/2022.naacl-main.359). In *Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies*, pages 4875–4893, Seattle, United States. Association for Computational Linguistics.
 
 # Acknowledgements
